@@ -1,0 +1,25 @@
+{
+  "name": "electron-proyect",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BRYAN-RODRIGUEZ-243/Electron-Proyect.git"
+  },
+  "keywords": [
+    "electron",
+    "first",
+    "proyect",
+    "begginner"
+  ],
+  "author": "Bryan Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BRYAN-RODRIGUEZ-243/Electron-Proyect/issues"
+  },
+  "homepage": "https://github.com/BRYAN-RODRIGUEZ-243/Electron-Proyect#readme"
+}
